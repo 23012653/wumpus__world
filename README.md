@@ -30,9 +30,7 @@ It is assumed that there will always be a safe path that the agent can take to e
 ![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/4be5bf06-79fa-4fa0-9334-38a33f06060b)
 
 
-<hr>
-<h1>Program</h1>
-<hr>
+## Program:
 ```
 wumpus=[["Save","Breeze","PIT","Breeze"],
         ["Smell","Save","Breeze","Save"],
@@ -147,8 +145,6 @@ while(player):
 
 ```
 
-<hr>
-<h1>Output:</h1>
-<hr>
+## Output:
 
 
