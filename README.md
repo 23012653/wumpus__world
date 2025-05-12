@@ -146,5 +146,11 @@ while(player):
 ```
 
 ## Output:
+![image](https://github.com/user-attachments/assets/2b3d65bd-f6a7-4505-a4e7-c18d7fe26f3f)
+
+## Result:
+Thus the program executed successfully.
+
+
 
 
